@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../mqtt_shuttle"
+		}
+	],
+	"settings": {}
+}
