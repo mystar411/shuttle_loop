@@ -3,6 +3,7 @@
 #include <ArduinoJson.h>
 #include "handle.h"
 
+/// aaaa
 const char *ssid = "Galaxy"; //shuttleC
 const char *password = "halamadrid"; //thaco@1234
 const char *mqtt_server = "broker.hivemq.com"; // 10.14.64.11
